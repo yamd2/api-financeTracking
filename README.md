@@ -2,7 +2,7 @@
 
 THis api for our react transactioin app whic is at `... link to react app repo ..`
 
-... what this app is ....
+... what this app is ......
 
 ## How to use
 
